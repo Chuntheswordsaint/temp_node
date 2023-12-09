@@ -1,0 +1,16 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "I'm practicing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carl Angelo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "loadash": "^1.0.0",
+    "nodemon": "^3.0.2"
+  }
+}
